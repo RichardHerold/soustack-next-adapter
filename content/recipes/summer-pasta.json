@@ -1,0 +1,57 @@
+{
+  "slug": "summer-pasta",
+  "title": "Summer Pasta with Burst Tomatoes",
+  "description": "A fast weeknight pasta that uses sweet cherry tomatoes, basil, and garlic for a bright dinner.",
+  "yield": "4 servings",
+  "totalTime": "PT30M",
+  "ingredients": [
+    "12 oz spaghetti or bucatini",
+    "2 tbsp olive oil",
+    "3 cloves garlic, thinly sliced",
+    "1 pint cherry tomatoes",
+    "1/4 tsp red pepper flakes",
+    "1/4 cup pasta water",
+    "1/4 cup fresh basil leaves",
+    "Salt and black pepper to taste",
+    "Grated parmesan for serving"
+  ],
+  "steps": [
+    "Cook pasta in salted water until al dente. Reserve 1/2 cup pasta water.",
+    "Warm olive oil in a skillet and sauté garlic until fragrant.",
+    "Add cherry tomatoes and red pepper flakes. Cook until tomatoes burst and release juices.",
+    "Toss cooked pasta into the skillet with 1/4 cup reserved pasta water and simmer to coat.",
+    "Fold in basil, season with salt and pepper, and finish with parmesan."
+  ],
+  "source": {
+    "name": "Kitchen Lab",
+    "url": "https://example.com/summer-pasta"
+  },
+  "schemaOrg": {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "name": "Summer Pasta with Burst Tomatoes",
+    "description": "A fast weeknight pasta that uses sweet cherry tomatoes, basil, and garlic for a bright dinner.",
+    "recipeYield": "4 servings",
+    "recipeIngredient": [
+      "12 oz spaghetti or bucatini",
+      "2 tbsp olive oil",
+      "3 cloves garlic, thinly sliced",
+      "1 pint cherry tomatoes",
+      "1/4 tsp red pepper flakes",
+      "1/4 cup pasta water",
+      "1/4 cup fresh basil leaves",
+      "Salt and black pepper to taste",
+      "Grated parmesan for serving"
+    ],
+    "recipeInstructions": [
+      { "@type": "HowToStep", "text": "Cook pasta in salted water until al dente. Reserve 1/2 cup pasta water." },
+      { "@type": "HowToStep", "text": "Warm olive oil in a skillet and sauté garlic until fragrant." },
+      { "@type": "HowToStep", "text": "Add cherry tomatoes and red pepper flakes. Cook until tomatoes burst and release juices." },
+      { "@type": "HowToStep", "text": "Toss cooked pasta into the skillet with 1/4 cup reserved pasta water and simmer to coat." },
+      { "@type": "HowToStep", "text": "Fold in basil, season with salt and pepper, and finish with parmesan." }
+    ],
+    "prepTime": "PT10M",
+    "cookTime": "PT20M",
+    "url": "https://example.com/summer-pasta"
+  }
+}

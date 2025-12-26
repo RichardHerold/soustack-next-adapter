@@ -1,0 +1,87 @@
+:root {
+  color-scheme: light;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background: #fafafa;
+}
+
+body {
+  margin: 0;
+  color: #1f2937;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+
+.site-header {
+  background: linear-gradient(120deg, #1c3144, #365773);
+  color: #f8fafc;
+  padding: 2rem 0 1rem;
+}
+
+.site-header h1 {
+  margin: 0 0 0.5rem;
+}
+
+.subtitle {
+  margin: 0;
+  opacity: 0.9;
+}
+
+.card {
+  background: white;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.04);
+  padding: 1.25rem;
+  margin-bottom: 1.25rem;
+}
+
+.stack {
+  display: grid;
+  gap: 1rem;
+}
+
+code {
+  background: #f3f4f6;
+  padding: 0.15rem 0.25rem;
+  border-radius: 4px;
+}
+
+pre {
+  background: #0f172a;
+  color: #e5e7eb;
+  padding: 1rem;
+  border-radius: 8px;
+  overflow-x: auto;
+}
+
+a {
+  color: #0f766e;
+}
+
+.pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  background: #ecfeff;
+  color: #0f766e;
+  border: 1px solid #99f6e4;
+  border-radius: 999px;
+  padding: 0.35rem 0.75rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.section-title {
+  margin: 0 0 0.5rem;
+  font-size: 1.1rem;
+}
+
+.site-footer {
+  border-top: 1px solid #e5e7eb;
+  margin-top: 2rem;
+  background: #f8fafc;
+}
