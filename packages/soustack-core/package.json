@@ -1,0 +1,13 @@
+{
+  "name": "soustack-core",
+  "version": "0.0.1",
+  "description": "Local stub of the Soustack core helpers for the demo.",
+  "type": "module",
+  "main": "./index.js",
+  "types": "./index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./index.js"
+    }
+  }
+}
